@@ -9,6 +9,6 @@ for y in range(len(letras)):
   num.append(frase.count(letras[y]))
   print(letras[y],num[y])
 
-#ou
+#solução alternativa
 #import collections
 #print(collections.Counter(input()))
